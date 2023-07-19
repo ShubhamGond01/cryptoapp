@@ -68,7 +68,7 @@ function LineChart({
 			{
 				label: selectedCurrency.name,
 				data: data,
-				borderColor: "rgb(161,63,128)",
+				borderColor: "rgb(99, 163, 212)",
 			},
 		],
 	};
